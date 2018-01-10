@@ -1,5 +1,5 @@
 import scala.annotation.tailrec
-
+/*
 object AllYourBase {
   def rebase(inputBase: Int, inputDigits: List[Int], outputBase: Int): Option[List[Int]] = {
     if (inputBase < 2 || outputBase < 2)
@@ -33,3 +33,4 @@ object AllYourBase {
     }
   }
 }
+*/
