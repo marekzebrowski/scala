@@ -1,3 +1,4 @@
+/*
 case class Binary(s: String) {
   val toDecimal: Int = s.foldLeft[Option[Int]](Some(0)){
     case (Some(acc), '0') => Some(acc * 2)
@@ -5,4 +6,4 @@ case class Binary(s: String) {
     case _ => None
   }.getOrElse(0)
 }
-
+*/
