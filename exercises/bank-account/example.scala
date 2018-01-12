@@ -1,4 +1,4 @@
-trait BankAccount {
+/*trait BankAccount {
 
   def closeAccount(): Unit
 
@@ -26,3 +26,4 @@ protected case class Account(var balance: Option[Int] = Some(0)) extends BankAcc
 object Bank {
   def openAccount(): BankAccount = Account()
 }
+*/
