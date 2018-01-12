@@ -1,4 +1,4 @@
-import scala.annotation.tailrec
+/*import scala.annotation.tailrec
 
 object BinarySearch {
   def find[T](seq: Seq[T], value: T)(implicit ord: T => Ordered[T]): Option[Int]
@@ -20,4 +20,4 @@ object BinarySearch {
         searchInternal(seq, value, middle + 1, end)
     }
   }
-}
+}*/
