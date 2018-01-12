@@ -1,0 +1,1 @@
+basically nothing could be done significantly better - bit operations are the most space efficient
