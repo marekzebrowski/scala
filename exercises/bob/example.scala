@@ -1,4 +1,4 @@
-object Bob {
+/*object Bob {
   def response(statement: String): String = statement match {
     case Shouting() => "Whoa, chill out!"
     case Question() => "Sure."
@@ -22,4 +22,5 @@ object Bob {
   case object Silence {
     def unapply(statement: String) = statement.trim.isEmpty
   }
-}
+
+}*/
