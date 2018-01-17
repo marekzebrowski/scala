@@ -1,4 +1,4 @@
-object RunLengthEncoding {
+/*object RunLengthEncoding {
   type Plain = String
   type Encoded = String
 
@@ -29,4 +29,4 @@ object RunLengthEncoding {
         val fs = xs takeWhile (_ == x)
         fs +: splitByEquals(xs drop fs.length)
     }
-}
+}*/
