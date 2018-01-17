@@ -1,3 +1,4 @@
+/*
 case class Bst[+T](value: T, left: Option[Bst[T]], right: Option[Bst[T]]) {
   def insert[U >: T <% Ordered[U]](x: U): Bst[U] = {
     def insert(x: U, node: Option[Bst[U]]): Option[Bst[U]] =
@@ -27,3 +28,4 @@ object Bst {
 
   def apply[T](x: T): Bst[T] = Bst(x, None, None)
 }
+*/
